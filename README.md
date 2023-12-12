@@ -1,5 +1,7 @@
 # 本次实验测试参考了SEAL官方的代码示例，对图像加密以及同态计算进行了性能测试
 [SEAL](https://github.com/microsoft/SEAL)
+### 本次实验使用的环境
+     VS2022， 需要opencv(4.8.0)库以及SEAL(4.1)库
 ### 本次实验的目录结构
     root/   
         |-resources/    
